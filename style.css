@@ -1,0 +1,11 @@
+*{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar{
+    height: 60px;
+    display: flex;
+    background-color: #92828d;
+}
