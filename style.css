@@ -2,10 +2,26 @@
     color: white;
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/**navebar starts here**/
+.navbar{
+    height: 75px;
+    display: flex;
+    background-color: #20a8ec;
+    color: rgb(12, 0, 0);
+    justify-content: center;
+    align-items: center;
 }
 
-.navbar{
-    height: 60px;
-    display: flex;
-    background-color: #92828d;
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.logo{
+    background-image: url("everstylelogo.png.jpg");
+    height: 20px;
+    width: 100%;
+    background-size: cover;
 }
