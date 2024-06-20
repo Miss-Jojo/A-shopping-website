@@ -4,3 +4,5 @@ Building another shopping website after amazon clone. started on 19-06-2024. Jus
 Named "Everstyle". Reference taken from Amazon.in and flipcart and ajio.
 <br>
 Author:- Debasmita Sarkar
+<br>
+<b>(Incomplete)</b>
