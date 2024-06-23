@@ -17,6 +17,9 @@
 .nav-logo{
     height: 50px;
     width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo{
@@ -26,6 +29,10 @@
     background-size: cover;
 }
 
-.nav-loco {
-    display: inline;
+.border{
+    border: 2px solid transparent
+}
+
+.border:hover{
+    border: 2px solid white;
 }
