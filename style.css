@@ -58,3 +58,13 @@
     align-items: center;
 }
 
+/**box 3**/
+.nav-search{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+    width: 600px;
+    height: 45px;
+    border-radius: 4px;
+    margin-left: 10px;
+}
