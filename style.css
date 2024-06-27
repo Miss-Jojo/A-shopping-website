@@ -64,7 +64,38 @@
     justify-content: space-evenly;
     background-color: aquamarine;
     width: 600px;
-    height: 45px;
+    height: 35px;
     border-radius: 4px;
     margin-left: 10px;
+}
+
+.search-select{
+    background-color: rgb(59, 102, 244);
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border: none;
+}
+
+.search-input{
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.search-icon{
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    background-color: rgb(59, 102, 244);
+    color: black;
+
+}
+
+.nav-search:hover{
+    border: 2px solid olive;
 }
