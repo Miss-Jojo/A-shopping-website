@@ -99,3 +99,18 @@
 .nav-search:hover{
     border: 2px solid olive;
 }
+
+.nav-country {
+    display: flex;
+    /* justify-content: space-evenly; */
+    height: 35px;
+    width: 50px;
+    color: aliceblue;
+    border-radius: 6px;
+}
+
+.country-select {
+    background-color: rgb(59, 102, 244);
+    width: 100%;
+    color: aliceblue;
+}
