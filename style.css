@@ -128,6 +128,7 @@ span{
     font-weight: 700;
 }
 
+/*box 7*/
 .nav-cart i{
      font-size: 35px; 
 }
@@ -138,13 +139,13 @@ span{
 }
 
 
-    hr {
-        border: none;
-        border-top: 6px double #1302fa;
-        color: #333;
-        overflow: visible;
-        text-align: center;
-        height: 5px;
-      }
+ hr {
+     border: none;
+     border-top: 6px double #1302fa;
+    color: #333;
+     overflow: visible;
+    text-align: center;
+    height: 5px;
+  }
 
 
