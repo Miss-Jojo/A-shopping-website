@@ -7,9 +7,9 @@ Author:- Debasmita Sarkar
 <br>
 <b>(Incomplete)</b>
 <br />
+<hr />
 <b><u>Update</u></b>
 <br />
-<hr>
 <b>Date:- 1st July</b>
 <br />
 header ended. Navbar and panels finished.
