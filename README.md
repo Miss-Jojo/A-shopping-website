@@ -8,7 +8,7 @@ Author:- Debasmita Sarkar
 <b>(Incomplete)</b>
 <br />
 <hr />
-<h2>Update</h2>
+<h4>Update</h4>
 <br />
 <b>Date:- 1st July</b>
 <br />
