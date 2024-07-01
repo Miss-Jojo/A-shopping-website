@@ -42,15 +42,15 @@
 
 .loco-first{
     color: rgb(252, 246, 250);
-    font-size: 0.9rem;
-    font-weight: 500;
+    font-size: 0.75rem;
+    font-weight: 700;
 }
 
 .loco-sec{
     color:rgb(252, 246, 250);
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-left: 3px;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 .loco-icon{
@@ -100,6 +100,10 @@
     border: 2px solid olive;
 }
 
+.search-icon :hover {
+      color:rgb(12, 0, 0);
+}
+
 /*box 4*/
 .nav-country {
     display: flex;
@@ -145,7 +149,17 @@ span{
     color: #333;
      overflow: visible;
     text-align: center;
-    height: 5px;
+    /* height: 5px; */
   }
 
-
+/*panel starts from here*/
+.panel{
+  height: 40px;   
+  background-color: #68cbfd;
+  display: flex;
+  color: aliceblue;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
