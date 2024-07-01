@@ -6,3 +6,10 @@ Named "<i><b>Everstyle.in</b></i>". Reference taken from Amazon.in and flipcart 
 Author:- Debasmita Sarkar
 <br>
 <b>(Incomplete)</b>
+<br />
+<b><u>Update</u></b>
+<br />
+<hr>
+<b>Date:- 1st July</b>
+<br />
+header ended. Navbar and panels finished.
