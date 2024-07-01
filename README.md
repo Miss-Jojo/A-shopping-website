@@ -12,4 +12,4 @@ Author:- Debasmita Sarkar
 <br />
 <b>Date:- 1st July</b>
 <br />
-header ended. Navbar and panels finished.
+Finished the Navbar & the Panels. The Header is finished.
