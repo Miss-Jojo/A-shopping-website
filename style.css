@@ -70,14 +70,17 @@
 }
 
 .search-select{
-    background-color: rgb(59, 102, 244);
+    background-color: #1302fa;
     width: 50px;
     text-align: left;
     border-top-left-radius: 6px;
     border-bottom-left-radius: 6px;
     border: none;
 }
-
+option{
+    background-color: rgb(163, 210, 252);
+    color: black;
+}
 .search-input{
     width: 100%;
     font-size: 1rem;
