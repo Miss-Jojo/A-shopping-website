@@ -181,3 +181,37 @@ span{
     font-weight: 600;
     font-size: 0.9rem;
 }
+/*header ends here.*/
+
+/*main starts here*/
+.hero-sec{
+    background-image: url("herosection.jpg");
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.hero-msg {
+    color: black;
+    background-color: white;
+
+    height: 40px;
+    display: flex;
+    font-size: 0.9rem;
+    bottom: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+    width: 85%;
+}
+
+.hero-msg p{
+    color: black;
+}
+
+a{
+    color: rgb(33, 141, 204);
+    text-decoration: none;
+}
