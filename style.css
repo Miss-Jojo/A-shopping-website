@@ -42,7 +42,7 @@
 
 .loco-first{
     color: rgb(252, 246, 250);
-    font-size: 0.75rem;
+    font-size: 0.9rem;
     font-weight: 700;
 }
 
@@ -126,12 +126,12 @@ option{
 
 /*box 5 & 6*/
 span{
-    font-size: 0.7rem;
+    font-size: 0.85rem;
     font-weight: 600;
 }
 
 .nav-second{
-    font-size: 0.85rem;
+    font-size: 0.9rem;
     font-weight: 700;
 }
 
@@ -184,14 +184,14 @@ span{
 /*header ends here.*/
 
 /*main starts here*/
-.hero-sec{
-    background-image: url("herosection.jpg");
-    height: 400px;
+ .hero-sec{
+     background-image: url("herosection.jpg");
+    height: 600px;
     background-size: cover;
     display: flex;
     justify-content: center;
     align-items: flex-end;
-}
+} 
 
 .hero-msg {
     color: black;
@@ -203,8 +203,8 @@ span{
     bottom: 25px;
     justify-content: center;
     align-items: center;
-    margin-bottom: 25px;
-    width: 85%;
+    margin-bottom: 250px;
+    width: 95%;
 }
 
 .hero-msg p{
