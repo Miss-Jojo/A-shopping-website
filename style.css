@@ -234,6 +234,7 @@ a{
 
 h2{
     color: rgb(14, 7, 54);
+    text-decoration: none;
 }
 .box-img{
     height: 230px;
