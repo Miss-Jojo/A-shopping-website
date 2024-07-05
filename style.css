@@ -220,18 +220,21 @@ a{
 .shop-section{
     display: flex;
     justify-content: space-evenly;
-    background-color: bisque;
+    background-color: rgb(249, 190, 215);
 }
 
 .box{
     height: 300px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width: 23%;
-    background-color: aliceblue;
+    background-color: #c5ddf2;
     padding: 20px 0px 15px;
     margin-top: 15px;
 }
 
+h2{
+    color: rgb(14, 7, 54);
+}
 .box-img{
     height: 230px;
     background-size: cover;
