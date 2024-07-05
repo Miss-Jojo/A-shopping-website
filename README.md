@@ -13,4 +13,13 @@ Author:- Debasmita Sarkar
 <b>Date:- 1st July</b>
 <br />
 Finished the Navbar & the Panels. The Header is finished.
-
+<br />
+<br />
+<b>Date:- 3rd July</b>
+<br />
+Finished the hero section. Added hero-img and hero-msg.
+<br />
+<br />
+<b>Date:- 5th July</b>
+<br />
+Created shop section and finished the 1st row of shop section. 4 boxes in a single row.
