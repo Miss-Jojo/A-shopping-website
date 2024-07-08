@@ -221,6 +221,7 @@ a{
     display: flex;
     justify-content: space-evenly;
     background-color: rgb(249, 190, 215);
+    flex-wrap: wrap;
 }
 
 .box{
