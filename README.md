@@ -23,3 +23,8 @@ Finished the hero section. Added hero-img and hero-msg.
 <b>Date:- 5th July</b>
 <br />
 Created shop section and finished the 1st row of shop section. 4 boxes in a single row.
+<br />
+<br />
+<b>Date:- 10th July</b>
+<br />
+Created another shop row.
