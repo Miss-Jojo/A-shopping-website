@@ -28,4 +28,6 @@ Created shop section and finished the 1st row of shop section. 4 boxes in a sing
 <b>Date:- 10th July</b>
 <br />
 Created another shop row.
-<b>Date:- 25th October</b>
+<b>Date:- 28th October</b>
+<br />
+img added in 1st korean div
