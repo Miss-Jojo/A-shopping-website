@@ -284,12 +284,24 @@ h1{
 .korean-styleshop-box1{
     height: 380px;
     width: 20%;
-    background-color: #ffffff;
+    background-color: #dddddd;
     margin-right: 30px;
+    padding-top: 12px;
+    padding-left: 10px;
 }
 
 .korean-styleshop-box2{
     height: 380px;
     width: 80%;
     background-color: #ffffff;
+    
+}
+
+.korean-img{
+    height: 330px;
+    background-size: cover;
+    margin-top: 10px;
+   
+    margin-right: 12px;
+    
 }
