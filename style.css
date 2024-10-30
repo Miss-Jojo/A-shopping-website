@@ -286,7 +286,7 @@ h1{
     width: 20%;
     background-color: #dddddd;
     margin-right: 30px;
-    padding-top: 12px;
+    padding-top: 5px;
     padding-left: 10px;
 }
 
@@ -294,14 +294,27 @@ h1{
     height: 380px;
     width: 80%;
     background-color: #ffffff;
+    /* padding-top: 5px; */
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    
     
 }
 
 .korean-img{
-    height: 330px;
+    height: 310px;
     background-size: cover;
     margin-top: 10px;
    
     margin-right: 12px;
     
+}
+
+.k2{
+    background-color: aqua;
+    height: 340px;
+    width: 280px;
+    border: 2px solid black;
 }
