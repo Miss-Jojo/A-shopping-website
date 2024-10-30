@@ -299,6 +299,7 @@ h1{
     justify-content: space-between;
     padding-left: 20px;
     padding-right: 20px;
+    padding-top: 5px;
     
     
 }
@@ -314,7 +315,7 @@ h1{
 
 .k2{
     background-color: aqua;
-    height: 340px;
+    height: 350px;
     width: 280px;
     border: 2px solid black;
 }
