@@ -269,14 +269,6 @@ h1 {
   color: #843b62;
 }
 
-/* .korean-style{
-    background-color:rgb(249, 190, 215);
-    display: flex;
-    height:400px;
-    width: 100%;
-    border: none;
-} */
-
 .korean-styleshop-box1 {
   height: 380px;
   width: 20%;
@@ -324,7 +316,38 @@ h1 {
   /* margin-right: 12px; */
 }
 
-.footer{
+.foot-panel1{
   /* background-color: aqua; */
-  height: 400px;
+  height: 40px;
+  background-color: #e196be;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.foot-panel2{
+  background-color: #dd6ca8;
+  color: white;
+  height: 250px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+ul{
+  margin-top: 20px;
+}
+
+ul a{
+  display: block;
+  color: white;
+  font-size: 0.9rem;
+  margin-top: 5px;
+  font-weight: 500;
+}
+
+ul p{
+  font-weight: bold;
 }
