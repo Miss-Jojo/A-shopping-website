@@ -323,3 +323,8 @@ h1 {
   margin-bottom: 8px;
   /* margin-right: 12px; */
 }
+
+.footer{
+  /* background-color: aqua; */
+  height: 400px;
+}
