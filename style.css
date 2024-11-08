@@ -351,3 +351,11 @@ ul a{
 ul p{
   font-weight: bold;
 }
+
+.foot-panel3{
+  background-color: #fe6694;
+  display: flex;
+  border-top: 0.5px solid white ;
+  height: 68px;
+  
+}
