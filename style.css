@@ -319,7 +319,7 @@ h1 {
 .foot-panel1{
   /* background-color: aqua; */
   height: 40px;
-  background-color: #e196be;
+  background-color: #843b62;
   color: white;
   display: flex;
   justify-content: center;
@@ -355,8 +355,27 @@ ul p{
 .foot-panel3{
   background-color: #fe6694;
   display: flex;
+  align-items: center;
+  justify-content: center;
   border-top: 0.5px solid white ;
-  height: 68px;
-  
-  
+  height: 50px; 
+}
+
+.foot-panel4{
+  padding-top: 15px;
+  background-color: #843b62;
+  height: 40px ;
+  font-size: 0.7rem;
+}
+
+.foot-panel4 a{
+  color: white;
+}
+
+.pages{ 
+   text-align: center;
+}
+
+.copyright{
+  text-align: center;
 }
