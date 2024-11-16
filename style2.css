@@ -1,21 +1,13 @@
-
-body{
-    display: flex;
-    justify-content: center;
-    align-items: center; 
-    width: 800px;
-    height: 800px;
-}
-.sign-in{
-    background-color: aqua;
-    height: 200px;
-    width: 200px;
-    display: flex;
-    justify-content: center;
-    align-items: center;   
+.sign-in {
+  background-color: aqua;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-button{
-    background-color: palevioletred;
-    color: black;
+button {
+  background-color: palevioletred;
+  color: black;
 }
