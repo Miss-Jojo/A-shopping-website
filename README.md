@@ -44,5 +44,4 @@ Finished the homepage of everstyle.
 <br />
 <b>Date:- 10th November</b>
 <br />
-Started the 
-Sign in page.
+Started the Sign in page.
