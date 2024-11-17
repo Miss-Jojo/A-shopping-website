@@ -1,13 +1,32 @@
-.sign-in {
-  background-color: aqua;
-  height: 400px;
-  width: 100%;
+body {
+  background-color: rgb(207, 21, 235);
+}
+
+main {
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 600px;
+}
+
+.sign-in {
+  padding: 30px;
+  background-color: rgb(255, 215, 246);
+  height: 350px;
+  /* width: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
 }
 
 button {
   background-color: palevioletred;
   color: black;
+}
+
+.sign-in a {
+  display: flex;
+  justify-content: right;
+  color: rgba(0, 183, 255, 0.696);
 }
