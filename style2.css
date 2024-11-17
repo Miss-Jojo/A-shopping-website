@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(207, 21, 235);
+  background-color: rgb(247 195 255);
 }
 
 main {
@@ -10,8 +10,8 @@ main {
 }
 
 .sign-in {
-  padding: 30px;
-  background-color: rgb(255, 215, 246);
+  padding: 0px 40px 0px 40px;
+  background-color: rgb(251 251 251);
   height: 350px;
   /* width: 100%; */
   display: flex;
